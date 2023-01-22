@@ -15,7 +15,9 @@ __lvl2__
 13. Which movie is latest as per DB? (which have highest release date)
 14. Which are top 10 movies by revenue? (sort by revenue desc)
 15. Which are top 10 movies by budget? (sort by budget desc)
+16. List top 10 movies of given genre in given year. (genre and year to be taken from userinput)
 __LvlUnknow'sBattleGround__
+..List down movies by rating(high to low) based on given actor name. (actor name to be taken from user input)
 ..Which are top 10 genres? (which genre has apeared most times)
 ..Which genre was having most movies in each year? (get top 1 genre for each year)
 ..top 10 companies having most movies produced? (sort desc of count of movies produced by a company)
